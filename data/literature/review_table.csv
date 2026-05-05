@@ -1,0 +1,20 @@
+Paper_ID,Authors,Year,Title,Domain,Model,Accuracy,Key_Contribution,Journal
+P1,Natarajan et al.,2024,Multi-disease detection using EfficientNetB4+LRA,Multi-Disease,EfficientNetB4+LRA,94.04%,Benchmark multi-disease accuracy,Neural Computing and Applications
+P2,Malik et al.,2020,Systematic review of DL in medical imaging,Survey,Various,N/A,TL sensitivity equals expert sensitivity,IEEE Access
+P3,Ayana et al.,2024,Multistage Transfer Learning review,Survey,MSTL,+5-12% improvement,Validated MSTL across 47+ studies,AI Review
+P4,Raghu et al.,2019,Transfusion: Understanding TL for medical imaging,Theory,Various,N/A,Efficiency principle for medical TL,NeurIPS
+P5,Hu Shen and Sun,2018,Squeeze-and-Excitation Networks,Attention,SE-Net,N/A,Channel attention mechanism,CVPR
+P6,Tan and Le,2019,EfficientNet: Rethinking model scaling,Architecture,EfficientNet,N/A,Compound scaling method,ICML
+P7,CMC,2022,ADDTLA: Alzheimer detection via AlexNet,Brain,AlexNet+TL,91.7%,F1=0.978 on Alzheimer detection,CMC Journal
+P8,Chae and Kim,2023,Residual U-Net + Attention for wound segmentation,Segmentation,Res-UNet,+31.3% DSC,Attention-based wound segmentation,Applied Sciences
+P9,Mustafa et al.,2021,Supervised TL at scale for medical imaging,Multi-Domain,Various,N/A,59% data reduction with TL,arXiv
+P10,He et al.,2016,Deep Residual Learning for Image Recognition,Architecture,ResNet,N/A,Skip connections for deep networks,CVPR
+P11,MRLA Authors,2023,Mutation Rate-Based Lion Algorithm Ensemble,Lung,MRLA Ensemble,~96%,3x performance gain over single CNN,Journal of AI
+P12,Howard et al.,2017,MobileNets: Efficient CNNs for Mobile Vision,Architecture,MobileNet,N/A,Depthwise separable convolutions,arXiv
+P13,Huang et al.,2017,Densely Connected Convolutional Networks,Architecture,DenseNet,N/A,Dense connectivity pattern,CVPR
+P14,Simonyan and Zisserman,2015,Very Deep Convolutional Networks,Architecture,VGG16,N/A,Deep uniform architecture,ICLR
+P15,Szegedy et al.,2015,Going Deeper with Convolutions,Architecture,InceptionV3,N/A,Inception module design,CVPR
+P16,Selvaraju et al.,2017,Grad-CAM: Visual Explanations from Deep Networks,XAI,Grad-CAM,N/A,Gradient-weighted class activation maps,ICCV
+P17,Ribeiro et al.,2016,Why Should I Trust You: Explaining Predictions,XAI,LIME,N/A,Local interpretable explanations,KDD
+P18,Alshanbari and Alzahrani,2025,GAN-based synthetic generation for medical imaging,Augmentation,GAN,N/A,Synthetic data for minority classes,Medical Imaging AI
+P19,AlexNet+SVM Authors,2022,Alzheimer detection using AlexNet+SVM,Brain,AlexNet+SVM,99.75%,Highest Alzheimer detection accuracy,Neuroscience Letters

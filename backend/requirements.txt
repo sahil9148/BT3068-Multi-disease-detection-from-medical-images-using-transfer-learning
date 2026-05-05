@@ -1,0 +1,44 @@
+# ══════════════════════════════════════════
+# BT3068 — Multi-Disease Detection
+# Requirements
+# ══════════════════════════════════════════
+
+# Deep Learning Frameworks
+tensorflow>=2.12.0
+keras>=2.12.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# FastAPI Backend
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+
+# Data Science & ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Explainability (XAI)
+lime>=0.2.0
+tf-keras-vis>=0.8.0
+
+# PDF Report Generation
+reportlab>=4.0.0
+fpdf2>=2.7.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+aiofiles>=23.1.0

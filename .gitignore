@@ -1,0 +1,59 @@
+# ══════════════════════════════════════════
+# BT3068 — .gitignore
+# ══════════════════════════════════════════
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files)
+data/chest_xray/
+data/brain_mri/
+data/retinal_fundus/
+data/skin/
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Model weights
+saved_models/
+checkpoints/
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+tensorboard_logs/
+
+# Uploads
+webapp/uploads/
+webapp/temp/
